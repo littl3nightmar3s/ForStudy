@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Open me</string>
+    <string name="b1">Button </string>
+    <string name="b2">Button two</string>
+    <string name="b3">Button three</string>
+    <string name="b4">Button four</string>
+    <string name="afterClick">***</string>
+</resources>
